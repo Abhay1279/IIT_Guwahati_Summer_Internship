@@ -1,0 +1,8 @@
+Overtaking_Vehicle_ID,Overtaking_Vehicle_Type,Overtaken_Vehicle_ID,Overtaken_Count,Overtaken_IDs,Overtake_Distance_m,Overtake_Time_s,Direction,Opposing_In_Window,To_CL_Before_Dist_m,To_CL_Before_Time_s,Pass+To_CL_Dist_m,Pass+To_CL_Time_s,To_LC_After_Dist_m,To_LC_After_Time_s,ReturnGap_Dist_m,ReturnGap_Time_s,Start_XY,End_XY
+Car_37,Car,Car_36,1,Car_36,79.06,5.82,Southbound,,31.15,2.3,79.06,5.82,0.0,0.0,,,"(np.float64(1054.3), np.float64(1006.25))","(np.float64(1006.21), np.float64(1005.85))"
+Car_57,Car,Truck_119,1,Truck_119,80.39,9.22,Northbound,,2.66,0.22,32.95,2.96,47.44,6.26,,,"(np.float64(1008.83), np.float64(1007.09))","(np.float64(1039.57), np.float64(1005.02))"
+Car_78,Car,Car_79,1,Car_79,73.16,13.43,Northbound,Truck_52,44.35,8.91,73.16,13.43,0.0,0.0,81.51,3.87,"(np.float64(1059.25), np.float64(1006.94))","(np.float64(1086.55), np.float64(1016.86))"
+Car_79,Car,Car_78,1,Car_78,77.84,13.44,Northbound,Truck_52,47.41,8.48,77.84,13.44,0.0,0.0,75.49,3.83,"(np.float64(1051.29), np.float64(1005.81))","(np.float64(1080.68), np.float64(1014.85))"
+Truck_124,Truck,Truck_123,1,Truck_123,81.57,11.13,Northbound,Truck_15,67.77,9.04,81.57,11.13,0.0,0.0,24.67,0.0,"(np.float64(1072.63), np.float64(1010.0))","(np.float64(1086.31), np.float64(1013.37))"
+Truck_69,Truck,Truck_68,1,Truck_68,81.02,8.35,Southbound,,60.81,6.35,81.02,8.35,0.0,0.0,,,"(np.float64(1025.74), np.float64(1005.1))","(np.float64(1005.42), np.float64(1008.67))"
+Truck_78,Truck,Truck_77,1,Truck_77,80.96,8.04,Southbound,,40.44,4.04,80.96,8.04,0.0,0.0,,,"(np.float64(1046.25), np.float64(1005.4))","(np.float64(1005.51), np.float64(1004.93))"
